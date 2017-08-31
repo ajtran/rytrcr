@@ -1,0 +1,5 @@
+notes-08.txt
+
+img-08: 29.72s
+
+./as2 cam 0 0 2 -1 -1 1 1 -1 1 -1 1 1 1 1 1 mat 0 0 0 .1 .7 .7 1 1 1 50 0 0 0 obj diamond.obj ltd 0 0 -1 1 1 1

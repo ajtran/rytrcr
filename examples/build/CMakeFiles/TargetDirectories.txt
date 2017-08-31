@@ -1,0 +1,1 @@
+/Users/ajtran/Desktop/cs184/as2/examples/build/CMakeFiles/as2.dir

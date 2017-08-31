@@ -1,0 +1,5 @@
+notes-07.txt
+
+img-07: 25.11s
+
+./as2 cam 0 0 2 -1 -1 1 1 -1 1 -1 1 1 1 1 1 mat 0 0 0 .1 .7 .7 1 1 1 50 0 0 0 obj flattriangle.obj ltd 0 0 -1 1 1 1
